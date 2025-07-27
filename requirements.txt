@@ -1,8 +1,5 @@
-import requests
-import json
-import telebot
-from datetime import datetime
-from auth_data import token
+requests
+pytelegrambotapi
 
 token = "8408784006:AAHJ1xW4kdI9YvogNuHELLqaIXmqZRLbY64"
 
